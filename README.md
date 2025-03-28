@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Me llamo Gonzalo Nicolás Barbosa, tengo 27 años y vivo en Villa Tesei, Hurlingham.
+- Estoy cursando la Tecnicatura Universitaria en Programación desde el 2024.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Desde chico me apasiona el mundo de la informática.
+- No tengo mascotas.
+  
